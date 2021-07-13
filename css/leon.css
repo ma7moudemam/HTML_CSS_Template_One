@@ -27,7 +27,7 @@ body {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
-  width: 600px;
+  /*width: 600px;*/
 }
 /* Small */
 @media (min-width: 768px) {
